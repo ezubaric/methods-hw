@@ -8,6 +8,20 @@ Python, checking out files, and interacting with data.
 I've created the names of functions you'll need to implement.  Fill
 them in and run the unit tests to see if they work.  When you've done
 everything, the output should look like:
+```
+$ python test_word_count.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+(base) mac-mini:warmup jbg$ python test_matrix_multiply.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
+```
 
 Matrix Math
 ===========================
