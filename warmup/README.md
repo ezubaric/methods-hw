@@ -5,6 +5,10 @@ Overview
 The goal of this homework is to make sure you're comfortable using
 Python, checking out files, and interacting with data.
 
+I've created the names of functions you'll need to implement.  Fill
+them in and run the unit tests to see if they work.  When you've done
+everything, the output should look like:
+
 Matrix Math
 ===========================
 
