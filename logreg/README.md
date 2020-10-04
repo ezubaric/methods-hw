@@ -49,7 +49,7 @@ Extra credit:
     - With the appropriate flag, use the *df* vector rather than *x* in the update
     - Show the effect in your analysis document
 3.  Modify the _sg update_ function so that it finds regularized updates.
-4.  Implement [[lazy updating|https://lingpipe.files.wordpress.com/2008/04/lazysgdregression.pdf]] for regularized updates
+4.  Implement lazy updating for regularized updates (https://lingpipe.files.wordpress.com/2008/04/lazysgdregression.pdf)
 
 Caution: When implementing extra credit, make sure your implementation of the
 regular algorithms doesn't change.
