@@ -30,7 +30,6 @@ Coding (25 points):
 2. (Optional) Store necessary data in the constructor so you can do classification later.  
 3. You'll likely need to write some code to get the best/worst features (see below).
 3. Modify the _sg update_ function to perform non-regularized updates.
-4. (Extra Credit) Modify the _sg update_ function so that it finds regularized updates.
 
 Analysis (5 points):
 
@@ -49,7 +48,8 @@ Extra credit:
     - Modify the Example to store the df vector
     - With the appropriate flag, use the *df* vector rather than *x* in the update
     - Show the effect in your analysis document
-3.  Implement lazy updating for regularized updates
+3.  Modify the _sg update_ function so that it finds regularized updates.
+4.  Implement [[lazy updating|https://lingpipe.files.wordpress.com/2008/04/lazysgdregression.pdf]] for regularized updates
 
 Caution: When implementing extra credit, make sure your implementation of the
 regular algorithms doesn't change.
