@@ -317,5 +317,7 @@ Hints
 1.  As with the previous assignment, make sure that you debug on small
     datasets first (I've provided _toy text_ in the data directory to get you started).
 1.  Use numpy functions whenever you can to make the computation faster.
+1.  Each line in the data file is a document, but only the non-zero features are listed.  
+1.  Your results may be slightly different because we shuffle the data each time it's loaded.
 
 
