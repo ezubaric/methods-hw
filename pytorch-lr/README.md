@@ -21,6 +21,7 @@ Coding (15 points):
 2. Create a logistic regression model with a softmax activation function and 
 3. Create a stochastic gradient optimizer.
 4. Optimize the function (remember to zero out gradients) and analyze the output.
+5. Save the model.
 
 Analysis (10 points):
 
